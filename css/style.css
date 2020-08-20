@@ -1,0 +1,75 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+.first {
+    padding:10px;
+    border-radius: 50px;
+    color:white;
+    background-color: orange;
+    text-decoration: none;
+}
+.first:hover {
+    color:black;
+    background-color: white;
+    padding:10px;
+    border-radius: 50px;
+    border:1px solid black;
+}
+.second {
+    padding:10px;
+    border-radius: 50px;
+    color:white;
+    background-color:red;
+    text-decoration: none;
+}
+.second:hover {
+    color:black;
+    background-color: white;
+    padding:10px;
+    border-radius: 50px;
+    border:1px solid black;
+}
+.third {
+    padding:10px;
+    color:white;
+    border-radius: 50px;
+    background-color:#20B2AA;
+    text-decoration: none;
+}
+.third:hover {
+    color:black;
+    background-color: white;
+    padding:10px;
+    border-radius: 50px;
+    border:1px solid black;
+}
+.fourth {
+    padding:10px;
+    color:white;
+    border-radius: 50px;
+    background-color:black;
+    text-decoration: none;
+}
+.fourth:hover {
+    color:black;
+    background-color: white;
+    padding:10px;
+    border-radius: 50px;
+    border:1px solid black;
+}
+.fifth {
+    padding:10px;
+    color:white;
+    border-radius: 50px;
+    background-color: green;
+    text-decoration: none;
+}
+.fifth:hover {
+    color:black;
+    background-color: white;
+    padding:10px;
+    border-radius: 50px;
+    border:1px solid black;
+}
